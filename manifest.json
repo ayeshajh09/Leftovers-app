@@ -1,0 +1,10 @@
+{
+  "name":"Leftovers — Group Hangout Planner",
+  "short_name":"Leftovers",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#161310",
+  "theme_color":"#161310",
+  "description":"Budget, swipe and decide where the group should go.",
+  "icons":[]
+}
